@@ -1,6 +1,5 @@
 import streamlit as st
-from utilities import test
-from tools.utility import test2
+from utilities import load_css
 
 st.set_page_config(
     page_title="Hello",
@@ -13,5 +12,4 @@ st.write('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus imper
 st.sidebar.header('About')
 st.sidebar.write('This is a simple demo of the Multipage App.')
 
-test()
-test2()
+load_css()
