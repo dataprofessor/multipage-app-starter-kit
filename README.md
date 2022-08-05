@@ -16,3 +16,6 @@ This is filler text, please replace this with a explanatory text about further r
 - Resource 1
 - Resource 2
 - Resource 3
+
+# Credit
+- Logo feature by Zachary Blackwood | [Read](https://discuss.streamlit.io/t/put-logo-and-title-above-on-top-of-page-navigation-in-sidebar-of-multipage-app/28213/6?u=dataprofessor)
