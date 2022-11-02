@@ -1,7 +1,7 @@
 import streamlit as st
 from utilities import load_css
 
-st.set_page_config(page_title="Apples", page_icon="1")
+st.set_page_config(page_title="Apples", page_icon="1️⃣")
 
 st.header("Apples 🍎")
 
