@@ -3,7 +3,7 @@ from utilities import load_css
 
 st.set_page_config(
     page_title="Hello",
-    page_icon="👋",
+    page_icon="🏠",
 )
 
 st.header("Welcome to the Multipage App! 👋")
