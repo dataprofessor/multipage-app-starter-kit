@@ -14,4 +14,3 @@ Duis ultricies, sem eu fermentum fermentum, nisl tellus egestas odio, at placera
 
 st.markdown('<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">', unsafe_allow_html=True)
 st.markdown('<i class="bi bi-youtube"></i>', unsafe_allow_html=True)
-st.markdown('&#xF62B;', unsafe_allow_html=True)
