@@ -3,7 +3,7 @@
                 background-size: 100%;
                 background-repeat: no-repeat;
                 padding-top: 120px;
-                background-position: 20px 20px;
+                /* background-position: 20px 20px; */
             }
 [data-testid="stSidebarNav"]::before {
                 content: "My Company Name";
