@@ -1,5 +1,5 @@
 import streamlit as st
-from utilities import test
+from tools.utilities import test
 
 st.set_page_config(page_title="Apples", page_icon="🍎")
 
