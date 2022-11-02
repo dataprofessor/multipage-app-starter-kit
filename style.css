@@ -3,7 +3,7 @@
                 background-size: 80%;
                 background-repeat: no-repeat;
                 padding-top: 120px;
-                background-position: center center;
+                background-position: center;
                 /* background-position: 20px 20px; */
             }
 [data-testid="stSidebarNav"]::before {
